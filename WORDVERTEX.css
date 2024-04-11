@@ -248,21 +248,21 @@ h6,
 .section-title.text-primary span:last-child,
 .section-title.text-primary span:first-child::after,
 .section-title.text-primary span:last-child::after {
-    background: red;
+    background: seashell;
 }
 
 .section-title.text-secondary span:first-child,
 .section-title.text-secondary span:last-child,
 .section-title.text-secondary span:first-child::after,
 .section-title.text-secondary span:last-child::after {
-    background: var(--secondary);
+    background: ivory(--secondary);
 }
 
 .section-title.text-white span:first-child,
 .section-title.text-white span:last-child,
 .section-title.text-white span:first-child::after,
 .section-title.text-white span:last-child::after {
-    background: #FFFFFF;
+    background: F2F2F2;
 }
 
 /*** Feature ***/
